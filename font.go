@@ -17,7 +17,7 @@ var Face9x15 = &basicfont.Face{
 	Mask:    mask9x15,
 	Ranges: []basicfont.Range{
 		{'\u0020', '\u007f', 0},   // basic latin
-		{'\u0410', '\u044f', 95},  // Кириллица
+		{'\u0410', '\u0450', 95},  // Кириллица
 		{'\ufffd', '\ufffe', 159}, // U+FFFD REPLACEMENT CHARACTER
 	},
 }
