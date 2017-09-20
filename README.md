@@ -1,6 +1,8 @@
 ## cyrfont
 
-9x15 scalable **golang.org/x/image/font/basicfont/Face** with 0410-044F range (cyrillic).
+9x15 scalable **golang.org/x/image/font/basicfont/Face**.
+
+Includes basic latin and cyrillic.
 
 Font come from the XFree86 distribution, and was created by Markus Kuhn.
 
